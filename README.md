@@ -8,22 +8,22 @@ NOTE: The extension will only beautify code by getting the JSON code from the fi
 
 1. Download the ZIP file.
 
-![download-zip](./installation-instuctions/download-zip.png)
+![download-zip](./installation-instructions/download-zip.png)
 
 2. Unzip the file.
 
  - Windows:
-   ![download-zip](./installation-instuctions/unzip-file-windows.png)
+   ![download-zip](./installation-instructions/unzip-file-windows.png)
  - Chrome OS:
    Open the zip, and copy a paste every thing into files.
 
 3. Open [chrome extensions](chrome://extensions)
 
 4. Turn on developer mode.
-![download-zip](./installation-instuctions/turn-on-developer-mode.png)
+![download-zip](./installation-instructions/turn-on-developer-mode.png)
 
 5. Click load unpacked. This will open your file explorer
-![download-zip](./installation-instuctions/load-packed.png)
+![download-zip](./installation-instructions/load-packed.png)
 
 6. Navigate to the unzipped folder.
 
