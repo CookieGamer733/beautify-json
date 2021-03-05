@@ -13,6 +13,7 @@ NOTE: The extension will only beautify code by getting the JSON code from the fi
 2. Unzip the file.
 
  - Windows:
+
    ![download-zip](./installation-instructions/unzip-file-windows.png)
  - Chrome OS:
    Open the zip, and copy a paste every thing into files.
@@ -20,9 +21,11 @@ NOTE: The extension will only beautify code by getting the JSON code from the fi
 3. Open [chrome extensions](chrome://extensions)
 
 4. Turn on developer mode.
+
 ![download-zip](./installation-instructions/turn-on-developer-mode.png)
 
 5. Click load unpacked. This will open your file explorer
+
 ![download-zip](./installation-instructions/load-packed.png)
 
 6. Navigate to the unzipped folder.
