@@ -10,7 +10,7 @@ Before/After:
 
 ![download-zip](./images/after.png)
 
-## NOTE: The extension will only beautify code by getting the JSON code from the first &lt;pre&gt; element and replacing the whole page with the neater JSON code. The extension works best on pages where only JSON content is loaded.
+NOTE: The extension will only beautify code by getting the JSON code from the first &lt;pre&gt; element and replacing the whole page with the neater JSON code. The extension works best on pages where only JSON content is loaded.
 
 ### Installation
 
