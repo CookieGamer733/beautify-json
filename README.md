@@ -26,7 +26,7 @@ NOTE: The extension will only beautify code by getting the JSON code from the fi
 
 5. Click load unpacked. This will open your file explorer
 
-![download-zip](./installation-instructions/load-packed.png)
+![download-zip](./installation-instructions/load-unpacked.png)
 
 6. Navigate to the unzipped folder.
 
