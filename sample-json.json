@@ -1,0 +1,9 @@
+{
+  "boolean": [
+    true,
+    false
+  ],
+  "null": null,
+  "number": 1234,
+  "string": "string"
+}
